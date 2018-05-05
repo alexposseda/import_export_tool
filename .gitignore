@@ -1,0 +1,4 @@
+.idea/
+config/export/db.config.php
+config/import/db.config.php
+result/
